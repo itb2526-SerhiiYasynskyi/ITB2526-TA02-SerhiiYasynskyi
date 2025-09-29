@@ -1,0 +1,204 @@
+﻿CFGS Administració de sistemes Informàtics en Xarxa                       Mòduls 0373-1665-1708   
+Grup A/B/C/D                                                                            Curs 25/26        Conv Ord.
+Formador/a: javier.amaya@itb.cat , meritxell.durany@itb.cat
+________________
+
+
+TA02 GitHub: Tecnologia Cloud 
+Mòduls i Resultats d’Aprenentatge (RA) implicats
+
+
+	Exercici
+	1665 Digitalització aplicada als sectors productius
+	50
+	tots
+	RA1
+	Analitza el concepte de digitalització i la seva repercussió en els sectors productius tenint en compte l'activitat de l'empresa i identificant entorns IT (Information Technology: tecnologia de la informació) i OT (Operation Technology: tecnologia d'operació) característics.
+	50
+	tots
+	RA2
+	Caracteritza les tecnologies habilitadores digitals necessàries per a l'adequació/transformació de les empreses a entorns digitals descrivint les seves característiques i aplicacions.
+	Capacitats transversals
+33%
+	Autonomia
+	Resoldre problemes i prendre decisions individuals, seguint les normes i procediments establerts, definits dins de l’àmbit de la seva competència.
+Efectuar consultes, dirigint-se a la persona adequada i saber respectar l’autonomia dels subordinats, informant quan sigui convenient.
+	34%
+	Implicació
+	Participa activament a l’elaboració de les tasques complint els horaris i respectant les normes de convivència a l’aula.
+	33%
+	Treball en equip
+	Realitza aportacions importants i és capaç de detectar conflictes a l'equip generant bon  ambient de treball.
+Hi ha equilibri de càrrega de treball entre tots els membres de l’equip.
+	Rúbrica
+RA's
+	Capacitats transversals
+	70%
+	30%
+	Com es realitza la tasca:
+* Treball individual
+* Cal generar una carpeta per pujar al Classroom taXX-cognomNom-cognomNom-grupDeClasse
+* Cal generar un ZIP amb tot el projecte. (mantenir el mateix nom)
+* Lliurar també els documents per separat
+* Fer captures de pantalla incloent la vostra foto de perfil o el vostre nom d’usuari
+Com es lliura la tasca:
+* Respectar la data de lliurament (-10% de la nota de descompte per dia fins que sigui corregida)
+* Document 
+taXX-cognomNom-cognomNom-grupDeClasse.gDoc
+* video-demo 
+taXX-cognomNom-cognomNom-grupDeClasse.webm
+* Amb els dos documents anteriors generar el fitxer taXX-cognomNom-cognomNom-grupDeClasse.zip 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+Llicència Aquest document està subjecte a la llicència de Reconeixement de Creative Commons (CC-BY 4.0)
+Enunciat de la tasca
+
+
+1 Compte d’usuari GitHub
+Crear un compte d’usuari al GitHub amb el format: ITB2526-NomCognom
+Crear un repository amb el nom: ITB2526-TA02-NomCognom
+
+
+2FA authentication is mandatory
+
+
+
+
+Solució
+	  
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+	2 GitHub vinculat a PyCharm
+Fer un projecte Pycharm, i deixar-ho configurat amb el VCS[1]  Git.  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solució
+	  
+
+  
+
+
+
+	
+
+3  Projecte PyCharm de proves
+
+
+* HelloWorld.py
+* ComprovarEdat.py
+
+
+Solució
+	  
+
+
+
+  
+
+  
+
+	
+
+________________
+
+
+4 Projecte PyCharm amb diferents recursos
+Adjuntar al vostre projecte, fitxers d’altres tipus (mínim 3). Com ara: *.PNG *.PDF potser la guia d’estil de Python 
+Aconseguir que quedin vinculats i actualitzats al repositori.
+
+
+Solució
+	…
+
+
+
+
+	
+
+
+
+5 Lliurament de tasques
+Pujar al classroom tots els lliuraments demanats amb la nomenclatura correcta (Com es lliura el projecte):
+* Omplir en aquest document las capses de solució
+* Video-demo de les tasques fetes gravant la pantalla que mostri com ha quedat cada un dels punts.
+________________
+
+
+ Institut Tecnològic de Barcelona  
+ https://www.itb.cat/
+ @iTecBcn
+
+
+________________
+[1] VCS: Version Control Systems are sometimes known as SCM (Source Code Management) tools or RCS (Revision Control System). One of the most popular VCS tools in use today is called Git.
